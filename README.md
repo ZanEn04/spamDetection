@@ -1,4 +1,5 @@
-Github + Streamlit \n
+**Github + Streamlit**
+
 Required file : 
 1. python file (with code)
 2. requirement text file (needed library listed)
